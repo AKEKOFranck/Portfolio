@@ -24,7 +24,7 @@ export default function Home() {
     },
      {
       id:4,
-      description:"une plateforme digital",
+      description:"une plateforme digitale",
       link:"https://maucode2.vercel.app/",
       pic:"/FondWork (4).png",
     },
